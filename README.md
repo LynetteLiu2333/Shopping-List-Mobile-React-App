@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project is a mobile application designed to simplify shopping list management with a user-friendly interface. Users can interact with their list dynamically; each item can be instantly removed with a click. Leveraging Firebase for real-time data storage and synchronization aims to streamline online shopping list organization for users.
+This project is a revamped version of the original VanillaJS mobile application, now built using React. It is designed to simplify shopping list management with a user-friendly interface. Users can dynamically interact with their list, removing items instantly with a click. Leveraging Firebase for real-time data storage and synchronization, this project aims to streamline online shopping list organization for users.
 
 ### Screenshot
 
