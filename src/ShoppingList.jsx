@@ -46,6 +46,8 @@ const ShoppingList = () => {
       <img src={BreadCartoon} alt="Bread Cartoon Shopping Cart" />
       <input
         id="input-field"
+        type="text"
+        placeholder="Enter your item here"
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
       />
