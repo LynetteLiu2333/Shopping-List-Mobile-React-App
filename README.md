@@ -19,7 +19,9 @@ This project is a mobile application designed to simplify shopping list manageme
 
 ### Links
 
-- Live Site URL: [shopping-list-mobile-react-app.vercel.app]
+- Live Site URL: [https://shopping-list-mobile-react-app.vercel.app/]
+
+## My process
 
 ### Built with
 
@@ -27,8 +29,6 @@ This project is a mobile application designed to simplify shopping list manageme
 - CSS
 - Javascript
 - Firebase
-
-## My process
 
 ### What I learned
 
